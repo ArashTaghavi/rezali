@@ -1,0 +1,19 @@
+{
+  "name": "rezali",
+  "version": "1.0.0",
+  "description": "Test for rezali",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArashTaghavi/rezali.git"
+  },
+  "author": "Arash Taghavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArashTaghavi/rezali/issues"
+  },
+  "homepage": "https://github.com/ArashTaghavi/rezali#readme"
+}
